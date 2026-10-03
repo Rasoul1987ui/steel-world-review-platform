@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   },
   description:
     'رسانه تخصصی اخبار، تحلیل، داده‌های بازار، شرکت‌ها و فناوری صنعت فولاد برای مدیران، مهندسان و فعالان تجارت فولاد.',
-  generator: 'v0.app',
+  generator: 'Steel World Review',
   openGraph: {
     type: 'website',
     locale: 'fa_IR',
